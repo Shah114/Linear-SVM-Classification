@@ -1,5 +1,5 @@
-# Support Vector Machine
-Linear-SVM-Classification
+# Linear-SVM-Classification
+Classification
 
 This repository contains a comprehensive guide and implementation for Linear Support Vector Machine (SVM) Classification using Python. The goal of this project is to provide a clear and practical understanding of how to use Linear SVM for classification tasks on various datasets.
 
